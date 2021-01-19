@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MGS2 The Orange" Version="b5" Author="RLC" Website="http://www.youtube.com/c/CapLagRobinReally">
+  <MGSVersion Version="1.0.12.0" />
+  <SBVersion Version="0.9.0.3" />
+  <Description />
+  <QarEntries>
+    <QarEntry Hash="12880955436846059347" FilePath="/Assets/tpp/item/cbx/Pictures/cbx0_main0_def_theorange_bsm.1.ftexs" Compressed="false" ContentHash="ED63A721B4BE318FF30A37B9B0335D73" />
+    <QarEntry Hash="13074610220822990675" FilePath="/Assets/tpp/item/cbx/Pictures/cbx0_main0_def_theorange_bsm.2.ftexs" Compressed="false" ContentHash="9C14F59A8D194F6A751C37B2A709F1E4" />
+    <QarEntry Hash="6276426583307226963" FilePath="/Assets/tpp/item/cbx/Pictures/cbx0_main0_def_theorange_bsm.3.ftexs" Compressed="false" ContentHash="C169D300827E4E25A265F6184120BAF7" />
+    <QarEntry Hash="1543143374940835667" FilePath="/Assets/tpp/item/cbx/Pictures/cbx0_main0_def_theorange_bsm.ftex" Compressed="false" ContentHash="FB46B0FEB505A4B923D9FAEA0884213E" />
+    <QarEntry Hash="5920631684233729403" FilePath="/Assets/tpp/pack/collectible/common/col_common_tpp.fpk" Compressed="true" ContentHash="97FF43BFB29150A1CD27BD3D7ADED990" />
+  </QarEntries>
+  <FpkEntries>
+    <FpkEntry FpkFile="/Assets/tpp/pack/collectible/common/col_common_tpp.fpk" FilePath="/Assets/tpp/fova/item/cbx/allpd.fv2" ContentHash="7496B5C317EF2728636E66DC15F571EA" />
+    <FpkEntry FpkFile="/Assets/tpp/pack/collectible/common/col_common_tpp.fpk" FilePath="/Assets/tpp/fova/item/cbx/base_desert.fv2" ContentHash="7496B5C317EF2728636E66DC15F571EA" />
+    <FpkEntry FpkFile="/Assets/tpp/pack/collectible/common/col_common_tpp.fpk" FilePath="/Assets/tpp/fova/item/cbx/base_rocky.fv2" ContentHash="7496B5C317EF2728636E66DC15F571EA" />
+    <FpkEntry FpkFile="/Assets/tpp/pack/collectible/common/col_common_tpp.fpk" FilePath="/Assets/tpp/fova/item/cbx/base_rockysanday.fv2" ContentHash="7496B5C317EF2728636E66DC15F571EA" />
+    <FpkEntry FpkFile="/Assets/tpp/pack/collectible/common/col_common_tpp.fpk" FilePath="/Assets/tpp/fova/item/cbx/base_smokefox.fv2" ContentHash="7496B5C317EF2728636E66DC15F571EA" />
+    <FpkEntry FpkFile="/Assets/tpp/pack/collectible/common/col_common_tpp.fpk" FilePath="/Assets/tpp/fova/item/cbx/base_urban.fv2" ContentHash="7496B5C317EF2728636E66DC15F571EA" />
+    <FpkEntry FpkFile="/Assets/tpp/pack/collectible/common/col_common_tpp.fpk" FilePath="/Assets/tpp/fova/item/cbx/base_wetland.fv2" ContentHash="7496B5C317EF2728636E66DC15F571EA" />
+    <FpkEntry FpkFile="/Assets/tpp/pack/collectible/common/col_common_tpp.fpk" FilePath="/Assets/tpp/fova/item/cbx/base_woodland.fv2" ContentHash="7496B5C317EF2728636E66DC15F571EA" />
+    <FpkEntry FpkFile="/Assets/tpp/pack/collectible/common/col_common_tpp.fpk" FilePath="/Assets/tpp/fova/item/cbx/water_proof.fv2" ContentHash="7496B5C317EF2728636E66DC15F571EA" />
+  </FpkEntries>
+  <FileEntries />
+</ModEntry>
